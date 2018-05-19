@@ -1,5 +1,5 @@
 body {
-   background-image: url("grafika.jpg");
+   background: url("grafika.jpg");
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
@@ -16,6 +16,7 @@ table {
 th {
   border: 2px solid white;
   background-color: gold;
+  color: black;
 }
 
 td {
